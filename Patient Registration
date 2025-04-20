@@ -6,3 +6,5 @@ create bill
 read insurance type, 
 read claim 
 calculate the amount 
+read the ditales 
+print" All the patient details"
